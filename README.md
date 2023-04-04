@@ -12,6 +12,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiTerezin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Linguagens utilizdas
+#### Linguagens mais utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiTerezin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Contato/Perfil profissional
+
+[<img src='https://img.shie1ds.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/yuri-terezin-5a5ab118a/)
