@@ -18,4 +18,4 @@
 
 #### Contato/Perfil profissional
 
-[<img src='https://img.shie1ds.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/yuri-terezin-5a5ab118a/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/yuri-terezin-5a5ab118a/)
