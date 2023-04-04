@@ -11,3 +11,7 @@
   - Porjeto de clone do TikTok com HTML, CSS e JavaScript.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiTerezin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Linguagens utilizdas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiTerezin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
