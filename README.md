@@ -1,4 +1,7 @@
 ### Olá a todos 👋
+  Me chamo Yuri, tenho 17 anos, estou a procura de uma oportunidade como Dev. FullStack PHP.
+    Sou comunicativo, direto e gosto de trabalhar em equipe.
+      Uma equipe unida é a que faz a diferença.
 
 #### Sobre mim 
   
