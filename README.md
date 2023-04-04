@@ -5,10 +5,8 @@
   
   - Sou comunicativo, direto e gosto de trabalhar em equipe.
   - Aprendendo coisas novas todos os dias,
-  - Ja fiz diversos cursos, como: 
-        <li>Análise e Desenvolvimento de Sistemas no Senai-PR,</li>
-        <li>PHP7 na Udemy.</li>
-        <li>E pretendo fazer faculdade de Análise e Desenvolvimento de Sistemas.</li>
+  - Ja fiz diversos cursos, como: Análise e Desenvolvimento de Sistemas no Senai-PR, PHP7 na Udemy.
+  - Pretendo fazer Faculdade na área de Análise e Desenvolvimento de Sistemas.
   - Projeto de clone do jogo FlippyBird usando Python,
   - Porjeto de clone do TikTok com HTML, CSS e JavaScript.
 
